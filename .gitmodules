@@ -1,0 +1,6 @@
+[submodule "Inventory-Service-"]
+	path = Inventory-Service-
+	url = https://github.com/Ahmadissa00/Inventory-Service-.git
+[submodule "Booking-Service"]
+	path = Booking-Service
+	url = https://github.com/Ahmadissa00/Booking-Service.git
