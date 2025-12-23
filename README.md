@@ -7,6 +7,13 @@
 
 A production-ready, modular Event Management System implemented with Java microservices — designed to manage events, inventory (tickets, resources), and bookings. This repository contains the core orchestration and documentation for the system; companion services include Inventory-Service and Booking-Service (Java).
 
+
+## Microservices Links
+
+- [Booking Service](https://github.com/Ahmadissa00/Booking-Service.git)
+- [Inventory Service](https://github.com/Ahmadissa00/Inventory-Service-.git)
+
+
 Why this project exists
 - Provide a clean, maintainable microservice architecture for event management.
 - Demonstrate best-practice service design, configuration, testing, and CI/CD for Java microservices.
